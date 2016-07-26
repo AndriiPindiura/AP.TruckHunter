@@ -1,0 +1,30 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="TruckHunter.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="name" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">hunter</Value>
+    </Setting>
+    <Setting Name="phone" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">0674478086</Value>
+    </Setting>
+    <Setting Name="play" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="modules" Type="System.Collections.Specialized.StringCollection" Scope="Application">
+      <Value Profile="(Default)">&lt;?xml version="1.0" encoding="utf-16"?&gt;
+&lt;ArrayOfString xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema"&gt;
+  &lt;string&gt;TruckHunter&lt;/string&gt;
+&lt;/ArrayOfString&gt;</Value>
+    </Setting>
+    <Setting Name="legalEventColor" Type="System.Drawing.Color" Scope="User">
+      <Value Profile="(Default)">DarkOliveGreen</Value>
+    </Setting>
+    <Setting Name="illegalEventColor" Type="System.Drawing.Color" Scope="User">
+      <Value Profile="(Default)">IndianRed</Value>
+    </Setting>
+    <Setting Name="processedEventColor" Type="System.Drawing.Color" Scope="User">
+      <Value Profile="(Default)">MidnightBlue</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>

@@ -1,0 +1,182 @@
+Revision: 21
+Author: aydnep
+Date: 30 июля 2014 г. 16:45:00
+Message:
+TruckHunter.exe: Версия 3.5.5.21
+Исправленна проблема фокусировки при увеличении
+Проверка обновлений
+----
+Modified : /TruckHunter.exe
+
+Revision: 20
+Author: aydnep
+Date: 30 июля 2014 г. 13:45:00
+Message:
+TruckHunter.exe: Версия 3.5.5.20
+Опубликовано на http://vpn.aydnep.com.ua/TruckHunter/setup.exe
+Проверка обновлений
+----
+Modified : /TruckHunter.exe
+
+Revision: 19
+Author: aydnep
+Date: 30 июля 2014 г. 13:30:00
+Message:
+TruckHunter.exe: Версия 3.5.5.19
+Опубликовано на http://vpn.aydnep.com.ua/TruckHunter/setup.exe
+----
+Modified : /TruckHunter.exe
+
+Revision: 18
+Author: aydnep
+Date: 30 июля 2014 г. 12:00:00
+Message:
+TruckHunter.exe: Версия 3.5.5.18
+Опубликовано на http://10.1.11.99/TruckHunter/setup.exe
+----
+Modified : /TruckHunter.exe
+
+Revision: 17
+Author: aydnep
+Date: 30 июля 2014 г. 12:00:00
+Message:
+TruckHunter.exe: Версия 3.5.5.17
+Опубликовано на http://10.1.11.1/aydnep.develop/TruckHunter/setup.exe
+----
+Modified : /TruckHunter.exe
+
+Revision: 15
+Author: aydnep
+Date: 30 июля 2014 г. 10:00:00
+Message:
+TruckHunter.exe: Версия 3.5.5.14
+Добавлена возможность увеличения окна камеры
+----
+Modified : /TruckHunter.exe
+
+Revision: 14
+Author: aydnep
+Date: 30 июля 2014 г. 09:00:00
+Message:
+TruckHunter.exe: Версия 3.5.5.13
+Добавлена возможность просмотра одной камеры вместо 3
+----
+Modified : /TruckHunter.exe
+
+Revision: 13
+Author: aydnep
+Date: 29 июля 2014 г. 09:00:00
+Message:
+TruckHunter.exe: Версия 3.5.5.12
+Увеличена задержка перед входом в режим архива до 1000мс
+----
+Modified : /TruckHunter.exe
+
+Revision: 12
+Author: aydnep
+Date: 17 января 2014 г. 23:00:00
+Message:
+TruckHunter.exe: Версия 3.5.5.11
+Добавленна возможность управлением сжатием
+----
+Modified : /TruckHunter.exe
+
+Revision: 11
+Author: aydnep
+Date: 16 января 2014 г. 15:00:00
+Message:
+TruckHunter.exe: Версия 3.5.5.10
+Исправлена ошибка публикации
+----
+Modified : /TruckHunter.sln
+
+Revision: 10
+Author: aydnep
+Date: 16 января 2014 г. 10:00:00
+Message:
+TruckHunter.exe: Версия 3.5.5.9
+Добавленно дополнительное логирование ошибок, устранены ошибки проверки лицензии. Исправленна ошибка объединения таблиц. Добавлена логика сработки лучей
+----
+Modified : /TruckHunter.exe /asa.dll
+
+Revision: 9
+Author: aydnep
+Date: 01 ноября 2013 г. 14:20:00
+Message:
+TruckHunter.exe: Версия 3.5.5.8
+Устранена ошибка некоретной даты просмотра камеры смотрящей в кузов.
+----
+Modified : /TruckHunter.exe
+
+Revision: 8
+Author: aydnep
+Date: 23 октября 2013 г. 11:25:00
+Message:
+TruckHunter.exe: Версия 3.5.5.7
+Добавлена возможность "свапа" камер въезда/выезда для упрощения жизни в случае некорректного определения въезда/выезда.
+----
+Modified : /TruckHunter.exe
+
+Revision: 7
+Author: aydnep
+Date: 17 октября 2013 г. 10:00:00
+Message:
+TruckHunter.exe: Версия 3.5.5.6
+Убран параметер задержки проездов из логики. Теперь охотник ловит событие по двум лучам и от параметра реестра определяет подозрительность/нелегальность.
+Убрана локальная БД из сборки.
+----
+Modified : /TruckHunter.exe
+
+Revision: 6
+Author: aydnep
+Date: 16 октября 2013 г. 16:45:00
+Message:
+TruckHunter.exe: Версия 3.5.5.5
+Оптимизированы запросы к БД + отключена функция локальной БД + убраны лучи.
+----
+Modified : /TruckHunter.exe
+
+Revision: 5
+Author: aydnep
+Date: 14 октября 2013 г. 15:00:00
+Message:
+TruckHunter.exe: Версия 3.5.5.4
+Исправленна ошибка некоретных временных интервалов при проезде без остановки.
+----
+Modified : /TruckHunter.exe
+
+Revision: 4
+Author: aydnep
+Date: 14 октября 2013 г. 10:10:00
+Message:
+TruckHunter.exe: Версия 3.5.5.3
+Исправленна ошибка визуального вывода информации о системном хэше.
+----
+Modified : /asa.dll
+
+Revision: 3
+Author: aydnep
+Date: 14 октября 2013 г. 10:05:00
+Message:
+TruckHunter.exe: Версия 3.5.5.2
+Исправленна отображаемая информация о лицензиях.
+----
+Modified : /asa.dll
+
+Revision: 2
+Author: aydnep
+Date: 14 октября 2013 г. 09:25:00
+Message:
+TruckHunter.exe: Версия 3.5.5.1
+Испрвавлена версия ревизий.
+----
+Modified : /TruckHunter.exe
+
+Revision: 1
+Author: aydnep
+Date: 14 октября 2013 г. 09:25:00
+Message:
+TruckHunter.exe: Версия 3.5.0.1
+Включена поддержка описания изменнений.
+----
+Modified : /TruckHunter.exe

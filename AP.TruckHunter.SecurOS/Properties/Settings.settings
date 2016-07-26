@@ -1,0 +1,22 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="AP.TruckHunter.SecurOS.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="DataBase" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">Host=192.168.225.165;Username=postgres;Password=postgres;Database=protocol</Value>
+    </Setting>
+    <Setting Name="Entries" Type="System.Collections.Specialized.StringCollection" Scope="Application">
+      <Value Profile="(Default)">&lt;?xml version="1.0" encoding="utf-16"?&gt;
+&lt;ArrayOfString xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema"&gt;
+  &lt;string&gt;"Проезд №1":1:2&lt;/string&gt;
+  &lt;string&gt;"Проезд №2":3:4&lt;/string&gt;
+&lt;/ArrayOfString&gt;</Value>
+    </Setting>
+    <Setting Name="RayType" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">OPEN</Value>
+    </Setting>
+    <Setting Name="Delay" Type="System.TimeSpan" Scope="Application">
+      <Value Profile="(Default)">00:00:00</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
